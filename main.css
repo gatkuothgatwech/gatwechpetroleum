@@ -1,0 +1,17 @@
+ul li{
+    display: flex;
+    float: right;
+    text-align: center;
+    color: rgb(s187, 40, 40);
+    
+}.one{
+    margin-right: 400px;
+    padding-top: 80px;
+}.product{
+     background-image: url(imag1.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+}.four{
+   background-color: rgb(0, 140, 255);
+   text-align: center;
+}
